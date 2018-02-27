@@ -1,7 +1,4 @@
----
-title: "Coursera Getting and Cleaning Data Course Project"
-output: html_document
----
+# Coursera Getting and Cleaning Data Course Project
 
 This repository contains the R code and necessary documentation specified by the course project in the "Getting and Cleaning Data" class offered by Coursera.
 
